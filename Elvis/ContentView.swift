@@ -57,7 +57,6 @@ struct ContentView: View {
           .buttonStyle(.borderedProminent)
           .font(.title2)
           .tint(.purple)
-          
         }
         .padding()
     }
